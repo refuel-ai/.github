@@ -11,9 +11,9 @@ If you've ever struggled with the manual and time-consuming task of data labelin
 - Easy to get started and integrate into your workflow
 
 ## :speech_balloon: Connect with us
-- [Twitter](https://twitter.com/refuelai)
-- [Mastodon](https://mastodon.social/@refuelai)
 - [Discord](https://discord.gg/fweVnRx6CU)
+- [Mastodon](https://mastodon.social/@refuelai)
+- [Twitter](https://twitter.com/refuelai)
 
 ## :star: Get Started
 Ready to take your data labeling to the next level? Install Autolabel today with `pip install refuel-autolabel` and check out our [documentation](https://github.com/refuel-ai/autolabel) for detailed guides and examples.
