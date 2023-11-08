@@ -12,7 +12,7 @@ If you've ever struggled with the manual and time-consuming task of data labelin
 
 ## :speech_balloon: Connect with us
 - [Discord](https://discord.gg/fweVnRx6CU)
-- [Mastodon](https://mastodon.social/@refuelai)
+- [Mastodon](https://sigmoid.social/@refuelai)
 - [Twitter](https://twitter.com/refuelai)
 
 ## :star: Get Started
