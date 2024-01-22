@@ -6,9 +6,9 @@ A summary of the change. Please also include relevant motivation and context. Th
 
 ## Type of change
 
-- [ ] Bug fix (change which fixes an issue)
-- [ ] New feature (change which adds functionality)
-- [ ] This change requires a documentation update
+- Bug fix (change which fixes an issue)
+- New feature (change which adds functionality)
+- This change requires a documentation update
 
 ## Tests
 
