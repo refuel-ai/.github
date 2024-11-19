@@ -11,17 +11,16 @@ If you've ever struggled with the manual and time-consuming task of data labelin
 - Easy to get started and integrate into your workflow
 
 ## :speech_balloon: Connect with us
-- [Discord](https://discord.gg/fweVnRx6CU)
 - [Mastodon](https://sigmoid.social/@refuelai)
-- [Twitter](https://twitter.com/refuelai)
+- [𝕏](https://x.com/refuelai)
 
 ## :star: Get Started
-Ready to take your data labeling to the next level? Install Autolabel today with `pip install refuel-autolabel` and check out our [documentation](https://github.com/refuel-ai/autolabel) for detailed guides and examples.
+Ready to take your data labeling to the next level? Install Autolabel today with `pip install refuel-autolabel` and check out our [documentation](https://docs.refuel.ai) for detailed guides and examples.
 
 ## :handshake: Contribute
 We believe in the power of community, and we welcome contributions! Check out our [contribution guidelines](https://github.com/refuel-ai/autolabel/blob/main/CONTRIBUTING.md) and feel free to open an issue or submit a pull request.
 
 ## :mailbox: Support
-If you have any questions or need support, don't hesitate to reach out to us on [Discord](https://discord.gg/fweVnRx6CU) or [open an issue on GitHub](https://github.com/refuel-ai/autolabel/issues).
+If you have any questions or need support, don't hesitate to [open an issue on GitHub](https://github.com/refuel-ai/autolabel/issues).
 
 We look forward to hearing from you!
